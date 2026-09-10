@@ -1,0 +1,12 @@
+product_category,total_revenue,num_orders
+books,30176.97,83
+health,24655.9,64
+toys,24579.55,71
+garden,21708.95,62
+sports,17954.17,49
+automotive,16444.73,47
+pet supplies,15178.5,42
+fashion,11737.0,31
+furniture,10421.49,36
+electronics,4233.97,12
+unknown,49.87,1
